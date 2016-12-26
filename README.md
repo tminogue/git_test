@@ -1,0 +1,1 @@
+This is Sophia's first git project
